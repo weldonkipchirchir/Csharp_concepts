@@ -1,0 +1,14 @@
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\bin\Debug\net8.0\C#_Demo.exe
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\bin\Debug\net8.0\C#_Demo.deps.json
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\bin\Debug\net8.0\C#_Demo.runtimeconfig.json
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\bin\Debug\net8.0\C#_Demo.dll
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\bin\Debug\net8.0\C#_Demo.pdb
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\obj\Debug\net8.0\C#_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\obj\Debug\net8.0\C#_Demo.AssemblyInfoInputs.cache
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\obj\Debug\net8.0\C#_Demo.AssemblyInfo.cs
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\obj\Debug\net8.0\C#_Demo.csproj.CoreCompileInputs.cache
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\obj\Debug\net8.0\C#_Demo.dll
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\obj\Debug\net8.0\refint\C#_Demo.dll
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\obj\Debug\net8.0\C#_Demo.pdb
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\obj\Debug\net8.0\C#_Demo.genruntimeconfig.cache
+C:\Users\SoftClansUser\source\repos\C#_Demo\C#_Demo\obj\Debug\net8.0\ref\C#_Demo.dll
